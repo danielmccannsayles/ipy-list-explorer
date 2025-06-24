@@ -21,5 +21,5 @@ license = "MIT"
 license-files = ["LICENSE*"]
 
 [project.urls]
-Homepage = "https://github.com/danielmccannsayles?tab=repositories" #TODO: link to actual repo
-Repository = "https://github.com/danielmccannsayles?tab=repositories"
+Homepage = "https://github.com/danielmccannsayles/ipy-list-explorer" #TODO: link to actual repo
+Repository = "https://github.com/danielmccannsayles/ipy-list-explorer"

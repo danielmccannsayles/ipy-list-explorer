@@ -1,6 +1,6 @@
 # Ipy List Explorer
 
-_This is pretty janky right now - if you want to use it it's probably best to just copy the code from `src/ipy_list_explorer/widget.py` :)_
+_This is subject to major overhaul - if you want to use it it's probably best to just copy the code from `src/ipy_list_explorer/widget.py` :)_
 
 [![PyPI - Version](https://img.shields.io/pypi/v/ipy-list-explorer)](https://pypi.org/project/ipy-list-explorer/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ipy-list-explorer)](https://pypi.org/project/ipy-list-explorer/)
@@ -34,6 +34,7 @@ ListExplorer(["Item1"])
 Feel free to use this however you'd like.
 I found it helpful as opposed to printing out long lists to the console.
 
-Please feel free to contribute - I'd like it to look nicer/ be more customizable.
+I welcome any contributions - I'd like it to look nicer/ be more customizable.
+I'd also like it if this were part of a larger set of ipy widgets. It's annoying to have to install it individually
 
 Inspired by [InspectAI's Log Viewer](https://inspect.aisi.org.uk/log-viewer.html)

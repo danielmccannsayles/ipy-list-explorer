@@ -6,7 +6,7 @@ _This is pretty janky right now - if you want to use it it's probably best to ju
 
 Pass in a list of strings, and view them in two ways
 
-1. As a condensed list view (with a signle line per entry)
+1. As a condensed list view (with a single line per entry)
 2. As a detail view per item.
 
 While in the detail view, use the arrows to navigate through the list.

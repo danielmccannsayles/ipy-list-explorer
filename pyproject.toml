@@ -4,13 +4,17 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ipy_list_explorer"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Daniel McCann-Sayles", email="danielmccannsayles@gmail.com" },
 ]
 description = "A simple list explorer package for ipython contexts"
 readme = "README.md"
 requires-python = ">=3.9"
+dependencies = [
+  "ipywidgets>=7.0.0",
+  "IPython>=7.0.0",
+]
 keywords=["ipython", "list", "list explorer", "explorer", "preview", "jupyter", "ipywidgets"]
 classifiers = [
     "Programming Language :: Python :: 3",

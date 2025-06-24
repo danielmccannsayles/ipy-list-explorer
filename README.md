@@ -2,6 +2,11 @@
 
 _This is pretty janky right now - if you want to use it it's probably best to just copy the code from `src/ipy_list_explorer/widget.py` :)_
 
+[![PyPI - Version](https://img.shields.io/pypi/v/ipy-list-explorer)](https://pypi.org/project/ipy-list-explorer/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ipy-list-explorer)](https://pypi.org/project/ipy-list-explorer/)
+[![GitHub License](https://img.shields.io/github/license/danielmccannsayles/ipy-list-explorer)](https://github.com/danielmccannsayles/ipy-list-explorer/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/pypi/dm/ipy-list-explorer)](https://pypi.org/project/ipy-list-explorer/)
+
 **A simple list explorer for Ipython contexts.**
 
 Pass in a list of strings, and view them in two ways

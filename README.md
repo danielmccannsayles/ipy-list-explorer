@@ -7,7 +7,7 @@ _This is subject to major overhaul - if you want to use it it's probably best to
 [![GitHub License](https://img.shields.io/github/license/danielmccannsayles/ipy-list-explorer)](https://github.com/danielmccannsayles/ipy-list-explorer/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/pypi/dm/ipy-list-explorer)](https://pypi.org/project/ipy-list-explorer/)
 
-**A simple list explorer for Ipython contexts.**
+**A simple list explorer for Ipython, made entirely from ipywidgets.**
 
 Pass in a list of strings, and view them in two ways
 

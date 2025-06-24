@@ -8,16 +8,18 @@ version = "0.0.1"
 authors = [
   { name="Daniel McCann-Sayles", email="danielmccannsayles@gmail.com" },
 ]
-description = "A small example package"
+description = "A simple list explorer package for ipython contexts"
 readme = "README.md"
 requires-python = ">=3.9"
+keywords=["ipython", "list", "list explorer", "explorer", "preview", "jupyter", "ipywidgets"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
 ]
 license = "MIT"
 license-files = ["LICENSE*"]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/danielmccannsayles?tab=repositories" #TODO: link to actual repo
+Repository = "https://github.com/danielmccannsayles?tab=repositories"
